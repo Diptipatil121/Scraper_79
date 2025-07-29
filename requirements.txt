@@ -1,0 +1,13 @@
+beautifulsoup4
+lxml
+lxml_html_clean
+newspaper3k
+pandas
+requests
+selenium
+tqdm
+webdriver-manager
+celery
+redis
+filelock
+flower
